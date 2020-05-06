@@ -58,8 +58,8 @@ m <- leaflet() %>%
   ## Add a coordinates reader
   leafem::addMouseCoordinates() %>%
   ## define the view
-  setView(lng = 3.721387, 
-          lat = 45.546099, 
+  setView(lng = 24, 
+          lat = 49, 
           zoom = 3 ) %>%
   
   ## Add the polygons of the shapefiles
@@ -68,24 +68,24 @@ m <- leaflet() %>%
             smoothFactor = 0.2, 
               fillOpacity = 1,
              color = ~palette_countries(NUMBER),
-            group = "Countries",
+            group = "Number by Country",
             label = ~paste("In", NAME, "there are", NUMBER, " initiatives", sep = " ")) %>%
  
    ## Add a legend with the occurrences of the toponyms according to the macro areas
   addLegend("bottomleft", 
           pal = palette_countries, 
            values = countries$NUMBER,
-           title = "Organc Breeding initiatives by country:",
-            labFormat = labelFormat(suffix = "initiatives"),
+           title = "N (all types) by country:",
+            labFormat = labelFormat(suffix = " Organisations"),
             opacity = 1,
-            group = "Countries") %>%
+            group = "Number by Country") %>%
   
   ## Add Markers with clustering options
   addAwesomeMarkers(data = data, 
                     lng = ~long,
                     lat = ~lat, 
                     popup = c(content), 
-                    group = "Organic breeding Organizations",
+                    group = "All Organisations mapped",
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
                     clusterOptions = markerClusterOptions())%>%
   
@@ -123,28 +123,37 @@ m <- leaflet() %>%
                     group = "Conventiona lbreeding, organic seed production (CBOS)",
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
                    )%>%
+  ## Add Markers for other
+  addAwesomeMarkers(data = data[which(data$type_other=="other"),], 
+                    lng = ~long,
+                    lat = ~lat, 
+                    popup = c(content), 
+                    group = "Type of breeding activity not specified",
+                    options = popupOptions(maxWidth = 100, maxHeight = 150), 
+  )%>%
   
   ## Add a legend with the credits
   addLegend("topright", 
             
             colors = c("trasparent"),
-            labels=c("This map is based on data by ENGAGEMENT.BIOBREEDING EUROPE and LIVESEED (H2020 Grant Agreement No 727230)"),
+            labels=c("Map based on data by ENGAGEMENT.BIOBREEDING and LIVESEED (H2020 Grant Agreement No 727230)"),
             
-            title="Initiatives related to Organic Breeding in Europe: ")%>%
+            title="")%>%
   
  
   ## PART 3 - IN THIS PART THE CODE MANAGE THE LAYERS' SELECTOR
   
   ## Add the layer selector which allows you to navigate the possibilities offered by this map
   
-  addLayersControl(baseGroups = c("Organic breeding Organizations",
+  addLayersControl(baseGroups = c("All Organisations mapped",
                                   "Organic Plant Breeding (OPB)",
                                   "Decentralised Organic Plant Breeding (DOPB)",
                                   "Breeding for Organic (BfO)",
                                   "Conventional breeding, organic seed production (CBOS)",
+                                  "Type of breeding activity not specified",
                                 "Empty layer"),
                    
-                   overlayGroups = c("Countries"),
+                   overlayGroups = c("Number by Country"),
                    
                    options = layersControlOptions(collapsed = F)) %>%
   
