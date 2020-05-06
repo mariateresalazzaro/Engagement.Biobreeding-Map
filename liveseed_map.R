@@ -87,9 +87,9 @@ m <- leaflet() %>%
                     popup = c(content), 
                     group = "Organic breeding Organizations",
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
-                    )%>%
+                    clusterOptions = markerClusterOptions())%>%
   
-  ## Add Markers with clustering options OPB
+  ## Add Markers for OPB
   addAwesomeMarkers(data = data[which(data$typeOPB=="OPB"),], 
                     lng = ~long,
                     lat = ~lat, 
@@ -98,7 +98,7 @@ m <- leaflet() %>%
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
                     )%>%
   
-  ## Add Markers with clustering options DOPB
+  ## Add Markers with clustering optionsfor DOPB
   addAwesomeMarkers(data = data[which(data$typeDOPB=="DOPB"),], 
                     lng = ~long,
                     lat = ~lat, 
@@ -106,7 +106,7 @@ m <- leaflet() %>%
                     group = "Decentralised Organic Plant Breeding (DOPB)",
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
                     )%>%
-  ## Add Markers with clustering options DOPB
+  ## Add Markers for BfO
   addAwesomeMarkers(data = data[which(data$typeBfO=="BfO"),], 
                     lng = ~long,
                     lat = ~lat, 
@@ -115,7 +115,7 @@ m <- leaflet() %>%
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
                    )%>%
   
-  ## Add Markers with clustering options DOPB
+  ## Add Markers for CB_OS
   addAwesomeMarkers(data = data[which(data$typeCB_OS=="CB_OS"),], 
                     lng = ~long,
                     lat = ~lat, 
@@ -128,9 +128,9 @@ m <- leaflet() %>%
   addLegend("topright", 
             
             colors = c("trasparent"),
-            labels=c("Map with data by ENGAGEMENT.BIOBREEDING EUROPE and LIVESEED"),
+            labels=c("This map is based on data by ENGAGEMENT.BIOBREEDING EUROPE and LIVESEED (H2020 Grant Agreement No 727230)"),
             
-            title="Organinc Breeding in Europe: ")%>%
+            title="Initiatives related to Organic Breeding in Europe: ")%>%
   
  
   ## PART 3 - IN THIS PART THE CODE MANAGE THE LAYERS' SELECTOR
@@ -141,12 +141,12 @@ m <- leaflet() %>%
                                   "Organic Plant Breeding (OPB)",
                                   "Decentralised Organic Plant Breeding (DOPB)",
                                   "Breeding for Organic (BfO)",
-                                  "Conventiona lbreeding, organic seed production (CBOS)",
+                                  "Conventional breeding, organic seed production (CBOS)",
                                 "Empty layer"),
                    
                    overlayGroups = c("Countries"),
                    
-                   options = layersControlOptions(collapsed = TRUE)) %>%
+                   options = layersControlOptions(collapsed = F)) %>%
   
   ## Hide the layers that the users can choose as they like
   hideGroup(c("Empty"))
