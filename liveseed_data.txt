@@ -1,95 +1,82 @@
-info_source	name	link	lat	long	country	type	typeOPB	typeDOPB	typeBfO	typeCB_OS	type_other
-FiBL	FiBL Austria	http://www.fibl.org/en/austria/work-areas-at/crop-and-vegetable-production.html	48.2081869	16.3559272	Austria	OPB	OPB	NOT	NOT	NOT	NOT
-AGES	AGES Austria	https://www.ages.at	48.2532079	16.4813146	Austria	other	NOT	NOT	NOT	NOT	other
-Demeter 	Rein Saat	https://www.reinsaat.at/	48.6072147	15.5364996	Austria	OPB	OPB	NOT	NOT	NOT	NOT
-NA	Saatzucht Edelhof	https://www.saatzucht.edelhof.at/	48.6062721	15.2209169	Austria	BfO	NOT	NOT	BfO	NOT	NOT
-ECO-PB	Saatzucht Donau GmbH &CoKG	http://www.saatzucht-donau.at/	48.1674666	16.6274562	Austria	BfO	NOT	NOT	BfO	CB_OS	NOT
-Eucarpia symposium	Netwerk Zelf Zaden telen	http://www.zelfzadentelen.be/	51.1473733	4.3947737	Belgium	DOPB	NOT	DOPB	NOT	NOT	NOT
-NA	Novafruits	http://www.cra.walllonie.be	NA	NA	Belgium	DOPB	NOT	DOPB	NOT	NOT	NOT
-ECO-PB, LIVESEED	Agrologica	http://www.agrologica.dk/	56.6603265	10.0151707	Denmark	OPB	OPB	NOT	NOT	NOT	NOT
-LIVESEED	INRA	http://institut.inra.fr/en	48.7833882	1.9565006	France	DOPB	OPB	DOPB	NOT	NOT	NOT
-Demeter	Institut Technique de l’ Agriculture Biologique- ITAB	http://itab.asso.fr , http://bit.ly/2pxmIEn	48.84097	2.3734546	France	DOPB	NOT	DOPB	NOT	NOT	NOT
-Veronique Chable	Michael Seed	http://michelseed.com/index.html	48.5592871	3.2945316	France	OPB	OPB	NOT	NOT	NOT	NOT
-ECO-PB	Réseau Semences Paysannes	http://www.semencespaysannes.org/	44.2984409	0.3333995	France	OPB	OPB	DOPB	NOT	NOT	NOT
-LIVESEED	Ubios	unionbiosemences.fr/	48.3986073	2.3965759	France	OPB	OPB	NOT	NOT	NOT	NOT
-Eucarpia symposium	Bayerische Landesanstalt für Landwirtschaft - LfL	http://www.lfl.bayern.de/	48.3768388	11.7814181	Germany	OPB	NOT	NOT	OPB	NOT	NOT
-Demeter Organic plant breeding 	Culinaris - Saatgut für Lebensmittel 	https://culinaris-saatgut.de/en/	51.5246033	9.9255213	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter	Dottenfelderhof	http://www.dottenfelderhof.de/forschung-zuechtung/aktuelles.html	50.1941711	8.7504930	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter	Dreschflegel Saatgut	http://www.dreschflegel-saatgut.de/	51.3383147	9.8635970	Germany	OPB	NOT	OPB	NOT	NOT	NOT
-Demeter	EuroPlant	http://www.europlant.biz/en/home/	53.2604558	10.4365726	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter	"Georg-August-Universität  Göttingen  (Department  of  Plant  Breeding/
-Research Unit “Genetic Resources and Ecological Plant Breeding”)"	http://www.uni-goettingen.de/de/die+fakult%C3%A4t/16366.html	51.5408149	9.9352118	Germany	OPB	OPB	DOPB	NOT	NOT	NOT
-Demeter	Getreidezüchtung Darzau	http://www.darzau.de/	53.199211	10.8685092	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Bioverita	Kartoffel Vielfalt	https://www.kartoffelvielfalt.de/	52.9632675	10.1780062	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter	Keyserlingk-Insitute	https://www.saatgut-forschung.de/	47.7546334	9.3560552	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter	Kultursaat e.V.	https://www.kultursaat.org/	50.3744004	8.8936242	Germany	OPB	OPB	DOPB	NOT	NOT	NOT
-Demeter	"Saat:gut e.V.
-incl. Apfel:gut"	http://www.saat-gut.org/	54.5577553	9.3738940	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-Eucarpia symposium	Saatzucht Schweiger GbR	http://saatzucht-schweiger.de/sorten/	48.4800905	11.9058243	Germany	BfO	NOT	NOT	BfO	NOT	NOT
-Symposium	University of Kassel	https://www.uni-kassel.de/fb11agrar/fachgebiete-einrichtungen/oekologischer-pflanzenschutz/startseite.html	51.3228223	9.5051644	Germany	OPB	OPB	NOT	NOT	NOT	NOT
-ECO-PB	AEGILOPS	http://www.aegilops.gr/en	39.3276318	23.0489457	Greece	OPB	OPB	NOT	NOT	NOT	NOT
-ECO-PB	Centre for Agricultural Research -MTA-ATK	http://www.mta-atk.hu/en	47.316105	18.7856200	Hungary	OPB	NOT	OPB	BfO	NOT	NOT
-Eucarpia symposium	Agribosco	http://www.agribosco.com/	43.3330851	12.7339929	Italy	other	NOT	NOT	NOT	NOT	other
-Demeter	Arcoiris	http://www.arcoiris.it/en/home	44.6522455	10.8787409	Italy	OPB	OPB	NOT	NOT	NOT	NOT
-LIVESEED	Council for Agricultural Research and Agricultural Economy Analysis - CREA	http://centroflc.entecra.it/	45.3097712	9.5125024	Italy	BfO	NOT	NOT	BfO	NOT	NOT
-LIVESEED	Council for Agricultural Research and Agricultural Economy Analysis - CREA	NA	41.9124276	12.4916428	Italy	BfO	NOT	NOT	BfO	NOT	NOT
-ECO-PB	Rete Semi Rurali	https://www.semirurali.net/	43.7480192	11.1788509	Italy	DOPB	NOT	DOPB	NOT	NOT	NOT
-Demeter	Terrabio	http://www.terrabio.eu/	43.7867028	12.6305940	Italy	OPB	OPB	NOT	NOT	NOT	NOT
-LIVESEED	Institute of Agricultural Resources and Economics - AREI	http://www.arei.lv	56.9716017	24.1723183	Latvia	OPB	OPB	NOT	BfO	NOT	NOT
-LIVESEED	Institute of Soil Science and Plant Cultivation - State Research Institute (IUNG-PIB)	www.iung.pulawy.pl/eng/	51.4122562	21.9570250	Poland	CB_OS	NOT	NOT	NOT	CB_OS	NOT
-ECO-PB	Instituto Politécnico de Coimbra - ESAC	http://portal.esac.pt/portal/	40.2118485	-8.4551208	Portugal	OPB	OPB	NOT	NOT	NOT	NOT
-LIVESEEED 	LIVING SEEDS SEMENTES VIVAS	www.sementesvivas.bio	39.8909695	-7.2929857	Portugal	OPB	OPB	NOT	NOT	NOT	NOT
-Dementer	Agrimondo	http://www.agrimondo.eu/	45.8941927	21.0541383	Romania	other	NOT	NOT	NOT	NOT	other
-NA	NARDI Fundulea - National Agricultural Research and Development Institute	http://www.incda-fundulea.ro/	44.4503368	26.5154422	Romania	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter Organic plant breeding 	Red de Semillas	http://www.redsemillas.info/	37.4262866	5.9930973	Spain	DOPB	NOT	DOPB	NOT	NOT	NOT
-LIVESEED	University of Valencia	NA	39.4793295	-0.3615750	Spain	other	NOT	NOT	NOT	NOT	other
-FiBL	Agroscope 	https://www.agroscope.admin.ch/agroscope/en/home/about-us/organization/competence-divisions-strategic-research-divisions/plant-breeding.html	47.3003671	8.0943020	Switzerland	BfO	NOT	NOT	BfO	NOT	NOT
-FiBL	Agroscope Forage Breading	https://www.agroscope.admin.ch/agroscope/en/home/about-us/organization/competence-divisions-strategic-research-divisions/plant-breeding.html	47.3003671	8.0943020	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
-FiBL	FiBL Switzerland	http://www.fibl.org/en/switzerland/location-ch.html	NA	NA	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter	Getreidezüchtung Peter Kunz	http://www.getreidezuechtung.ch/aktuell	47.2393161	8.7861177	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
-FiBL	Poma Culta	http://www.pomaculta.org/	47.1400587	7.4667997	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
-FiBL	Realisation Schmid	https://www.realisation-schmid.ch/	46.7159081	9.4647854	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
+info_source	name	link	lat	long	country	EU_region	typeOPB	typeDOPB	typeBfO	typeCB_OS	type_other	crop_arable	crop_forage	crop_vegetable	crop_fruit_grape	crop_other
+Survey	Akdeniz university 	http://eng.akdeniz.edu.tr/	36.8945378	30.6531643	Turkey	NA	OPB	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+Survey	Red Andaluza de Semillas	https://www.redandaluzadesemillas.org/	37.4251707	-5.9921683	Spain	SE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	other
+Demeter Organic plant breeding 	Red de Semillas Resembrando e Intercambiando	http://www.redsemillas.info/	37.4262866	-5.9930970	Spain	SE	NOT	DOPB	NOT	NOT	NOT	arable	NOT	NOT	NOT	other
+Survey	SURINVER EL GRUPO SOCIEDAD COOPERATIVA	https://www.surinver.es/en/	37.8658942	-0.8265467	Spain	SE	OPB	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+Survey	AGRICOLA VILLENA COOP.V.	http://www.agricolavillena.es/	38.6369184	-0.8787420	Spain	SE	NOT	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+Survey	CICYTEX (Centro de Investigaciones Científicas y Tecnológicas de Extremadura)	http://cicytex.juntaex.es/en/	38.850735	-6.6729233	Spain	SE	NOT	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+ECO-PB	AEGILOPS	http://www.aegilops.gr/en	39.3276318	23.0489457	Greece	SE	OPB	NOT	NOT	NOT	NOT	arable	NOT	vegetable	fruit_grape	other
+Survey	SAT LLauradors de Somnis  ECOLOGICVAL	https://ecologicval.com/en/	39.3715291	-0.4446867	Spain	SE	NOT	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+LIVESEED	University of Valencia	https://www.uv.es/uvweb/college/en/university-valencia-1285845048380.html	39.4793295	-0.3615750	Spain	SE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+LIVESEEED 	Living Seeds Sementes Vivas SA	https://www.sementesvivas.bio/en/	39.8909695	-7.2929857	Portugal	SE	OPB	NOT	NOT	NOT	NOT	NOT	forage	vegetable	NOT	NOT
+Survey	Mancomunidad de municipios del Rincón de Ademuz	http://rinconimpulsa.rincondeademuz.es/	40.0400618	-1.2654218	Spain	SE	NOT	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+ECO-PB	Instituto Politécnico de Coimbra - ESAC	http://portal.esac.pt/portal/	40.2118485	-8.4551208	Portugal	SE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Survey	FABIA CSB	https://academy.communityseedbanks.org/?file=workshop_summary_report_2019.pdf	41.1166364	21.1149489	North Macedonia	NA	NOT	NOT	NOT	NOT	other	NOT	NOT	NOT	NOT	other
+Survey	Bioversity International	www.bioversityinternational.org	41.8785741	12.2371357	Italy	SE	NOT	DOPB	NOT	NOT	NOT	NOT	NOT	NOT	NOT	other
+Survey	EcoRegió 	www.ecoregio.cat 	42.0630484	2.8032236	Spain	SE	OPB	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+LIVESEED	Council for Agricultural Research and Agricultural Economy Analysis - CREA Monsampolo del Tronto	https://www.crea.gov.it/web/orticoltura-e-florovivaismo/aziende-sperimentali	42.883118	13.7967080	Italy	SE	NOT	NOT	BfO	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+Eucarpia symposium	Agribosco	https://www.agribosco.com/	43.3330851	12.7339929	Italy	SE	NOT	NOT	NOT	NOT	other	arable	NOT	NOT	NOT	NOT
+ECO-PB	Rete Semi Rurali	https://www.semirurali.net/	43.7480192	11.1788509	Italy	SE	NOT	DOPB	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Demeter	Terrabio	https://terrabio.eu/	43.7867028	12.6305940	Italy	SE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+ECO-PB	Réseau Semences Paysannes	http://www.semencespaysannes.org/	44.2984409	0.3333995	France	CE	OPB	DOPB	NOT	NOT	NOT	arable	NOT	NOT	NOT	other
+NA	NARDI Fundulea - National Agricultural Research and Development Institute	http://www.incda-fundulea.ro/	44.4503368	26.5154422	Romania	EE	OPB	NOT	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Demeter	Arcoiris	http://www.arcoiris.it/en/home	44.6522455	10.8787409	Italy	SE	OPB	NOT	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Survey	Rémi Colombet	https://www.auvergnerhonealpes.bio/component/gmapfp/231:colombet-remi?view=gmapfp	44.8992684	4.9940717	France	CE	OPB	DOPB	BfO	CB_OS	NOT	NOT	NOT	NOT	NOT	other
+LIVESEED	Council for Agricultural Research and Agricultural Economy Analysis - CREA Lodi	http://centroflc.entecra.it/	45.3097712	9.5125024	Italy	SE	NOT	NOT	BfO	NOT	NOT	arable	NOT	NOT	NOT	NOT
+FiBL	Zollinger	https://www.zollinger.bio/en/home	46.3649254	6.8795026	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	other
+FiBL	Realisation Schmid	https://www.realisation-schmid.ch/	46.7159081	9.4647854	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	NOT	fruit_grape	NOT
+FiBL	Poma Culta	https://pomaculta.org/	47.1400587	7.4667997	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	NOT	fruit_grape	NOT
+Demeter	Getreidezüchtung Peter Kunz	http://www.getreidezuechtung.ch/aktuell	47.2393161	8.7861177	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+FiBL	Agroscope 	https://www.agroscope.admin.ch/agroscope/en/home/about-us/organization/competence-divisions-strategic-research-divisions/plant-breeding.html	47.3003671	8.0943020	Switzerland	CE	NOT	NOT	BfO	NOT	NOT	arable	NOT	vegetable	fruit_grape	NOT
+FiBL	Agroscope Forage Breading	https://www.agroscope.admin.ch/agroscope/en/home/about-us/organization/competence-divisions-strategic-research-divisions/plant-breeding.html	47.3003671	8.0943020	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	NOT	forage	NOT	NOT	NOT
+ECO-PB	Centre for Agricultural Research -MTA-ATK	http://www.mta-atk.hu/en	47.316105	18.7856200	Hungary	EE	OPB	NOT	BfO	NOT	NOT	arable	NOT	NOT	NOT	NOT
+FiBL	FiBL Switzerland	http://www.fibl.org/en/switzerland/location-ch.html	47.516939	8.0250830	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	fruit_grape	other
+FiBL	Varietas	http://www.varietas.ch/index.php?lang=en	47.5547032	8.4318093	Switzerland	CE	NOT	NOT	BfO	NOT	NOT	arable	NOT	vegetable	NOT	NOT
 Demeter	Sativa Rheinau AG	"http://www.sativa-rheinau.ch/,http://bit.ly/2chBFlO ,  http://bit.ly/2bOeT7k
-, http://bit.ly/2bZxOYr"	47.6435946	8.6055833	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
-FiBL	varietas	http://www.varietas.ch/	47.5547032	8.4318093	Switzerland	other	NOT	NOT	NOT	NOT	other
-FiBL	Zollinger	https://www.zollinger.bio/en/home	46.3649254	6.8795026	Switzerland	OPB	OPB	NOT	NOT	NOT	NOT
-ECO-PB	Bejo Seeds	http://www.bejoseeds.com/	46.6302386	-0.1450388	Netherlands	BfO	NOT	NOT	BfO	NOT	NOT
-ECO-PB	De Bolster	https://www.bolster.eu/en/	52.345579	6.0057832	Netherlands	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter Organic plant breeding 	De Beersche Hoeve	http://www.debeerschehoeve.nl/biodynamic-market-garden-11.html	51.4790015	5.2561052	Netherlands	OPB	OPB	NOT	NOT	NOT	NOT
-Eucarpia symposium	De Zaderij	http://www.zaderij.nl/	52.7679021	5.7338947	Netherlands	DOPB	NOT	DOPB	NOT	NOT	NOT
-Demeter	Louis Bolk Instituut	http://www.louisbolk.org/	52.0619874	5.2066735	The Netherlands	DOPB	OPB	DOPB	NOT	NOT	NOT
-NA	Mart Vandewall	NA	NA	NA	Netherlands	OPB	OPB	NOT	NOT	NOT	NOT
-NA	Rijk Zwaan	https://www.rijkzwaan.com/	51.9728819	4.2533762	The Netherlands	other	NOT	NOT	NOT	NOT	other
-Demeter	Vitalis Organic Seeds	http://eu.biovitalis.eu/	52.161505	6.1170130	Netherlands	BfO	OPB	NOT	BfO	NOT	NOT
-ECO-PB	Bioimpuls,  Louis Bolk Instituut & Wageningen University & Research	https://www.wur.nl/en/Research-Results/kennisonline/Bioimpuls-2.htm	NA	NA	Netherlands	DOPB	NOT	DOPB	NOT	NOT	NOT
-Walter de Milliano	Walter de Milliano	Not available	51.3105736	3.4892906	Netherlands	BfO	NOT	NOT	BfO	CB_OS	NOT
-Demeter	Organic Research Centre (ORC)	http://organicresearchcentre.com/	51.7108094	-1.9865577	United Kingdom	OPB	OPB	NOT	NOT	NOT	NOT
-Demeter Organic plant breeding 	The Seed Cooperative	https://www.seedcooperative.org.uk/	52.8693288	-0.1411412	United Kingdom	other	NOT	NOT	NOT	NOT	other
-Survey	Verein zur Erhaltung der Nutzpflanzenvielfalt 	https://www.nutzpflanzenvielfalt.de/	50.5393019	9.6481819	Germany	DOPB	NOT	DOPB	NOT	NOT	NOT
-Survey	Melholt Korn	http://www.melholt-korn.dk/login/	NA	NA	Denmark	OPB	OPB	NOT	NOT	NOT	NOT
-Survey	EcoRegió 	www.ecoregio.cat 	42.0630484	2.8032236	Catalonia 	OPB	OPB	NOT	BfO	NOT	NOT
-Survey	Bioversity International	www.bioversityinternational.org	NA	NA	Spain	DOPB	NOT	DOPB	NOT	NOT	NOT
-Survey	azad university	tnbu.ac.ir	NA	NA	Iran	CB_OS	NOT	NOT	NOT	CB_OS	NOT
-Survey	FABIA CSB	Not available	41.1166364	21.1149489	North Macedonia	OPB	OPB	DOPB	BfO	NOT	NOT
-Survey	Faculty of Agriculture and Food Technology Univesrity of Mostar	http://aptf.sum.ba/hr/	43.3413943	17.7957629	Bosnia and Herzegovina	other	NOT	NOT	NOT	NOT	other
-Survey	Luomuliitto ry  - Finnish Organic Farmers Association	www.luomuliitto.fi	60.7368296	24.7683232	Finland	OPB	OPB	NOT	BfO	NOT	NOT
-Survey	HAMK University of Applied Sciences	www.hamk.fi	60.9758213	24.4781475	Finland	OPB	OPB	DOPB	BfO	NOT	NOT
-Survey	NGO Maadjas	www.maadjas.ee	59.4717925	24.5981607	Estonia	other	NOT	NOT	NOT	NOT	other
-Survey	Cornell University	easternbroccoli.org	NA	NA	USA	other	NOT	NOT	BfO	NOT	NOT
-Survey	The Uk and Ireland Seed Sovereignty Programme in Scotland  (The Gaia Foundation)	www.seedsovereignty.info	51.5537415	-0.1607120	Scotland	other	NOT	NOT	NOT	NOT	other
-Survey	SRUC	www.sruc.ac.uk	55.9217376	-3.1793961	Scotland	DOPB	NOT	DOPB	NOT	NOT	NOT
-Survey	Doughies	doughies.blog	NA	NA	Scotland	OPB	OPB	NOT	NOT	NOT	NOT
-Survey	Stiftung Ökologie und Landbau	www.soel.de	49.211371	7.9923804	Germany	other	NOT	NOT	NOT	NOT	other
-Survey	Leen organics 	www.leenorganics.com 	52.8987582	-8.8638637	Ireland	OPB	OPB	NOT	NOT	NOT	NOT
-Survey	Akdeniz university 	-	36.8945378	30.6531643	Turkey	OPB	OPB	NOT	BfO	NOT	NOT
-Survey	Rémi Colombet	Remicolombet	44.8992684	4.9940717	France	OPB	OPB	DOPB	BfO	CB_OS	NOT
-Survey	Living Seeds Sementes Vivas SA	www.sementesvivas.bio	39.8909695	-7.2929857	Portugal	OPB	OPB	NOT	NOT	NOT	NOT
-Survey	SAT LLauradors de Somnis . ECOLOGICVAL	Ecologicval	39.3715291	-0.4446867	Spain	BfO	NOT	NOT	BfO	NOT	NOT
-Survey	SURINVER EL GRUPO SOCIEDAD COOPERATIVA	WWW.SURINVER.ES	37.8658942	-0.8265467	Spain	BfO	OPB	NOT	BfO	NOT	NOT
-Survey	Centro de Educación Ambiental de la Comunitat Valenciana	http://www.agroambient.gva.es/es/web/ceacv/ceacv	39.6325848	-0.2685964	Spain	other	NOT	NOT	NOT	NOT	other
-Survey	Mancomunidad de municipios del Rincón de Ademuz	http://rinconimpulsa.rincondeademuz.es/	40.0400618	-1.2654218	Spain	BfO	NOT	NOT	BfO	NOT	NOT
-Survey	AGRICOLA VILLENA COOP.V.	www.agricolavillena.com	38.6344597	-0.8767176	Spain	BfO	NOT	NOT	BfO	NOT	NOT
-Survey	Agrogreen Service Srl	http://www.agrogreenservice.com/	40.8219636	16.5575912	Spain	CB_OS	NOT	NOT	NOT	CB_OS	NOT
-Survey	Red de Semillas "Resembrando e Intercambiando!	www.redsemillas.info	NA	NA	Spain	OPB	OPB	NOT	NOT	NOT	NOT
-Survey	Red Andaluza de Semillas	www.redandaluzadesemillas.org	37.4251707	-5.9921683	Spain	OPB	OPB	NOT	NOT	NOT	NOT
-Survey	CICYTEX 	www.cicytex.org	38.850735	-6.6729233	Spain	BfO	NOT	NOT	BfO	NOT	NOT
+, http://bit.ly/2bZxOYr"	47.6435946	8.6055833	Switzerland	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Demeter	Keyserlingk-Insitute	https://www.saatgut-forschung.de/	47.7546334	9.3560552	Germany	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+added	INRA - BAGAP research unit: Biodiversity, Agroecology and Landscape Management	https://www6.rennes.inrae.fr/bagap_eng/	48.1197507	-1.6479827	France	CE	NOT	DOPB	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+ECO-PB	Saatzucht Donau GmbH &CoKG	http://www.saatzucht-donau.at/	48.1674666	16.6274562	Austria	CE	NOT	NOT	BfO	CB_OS	NOT	arable	NOT	NOT	NOT	NOT
+FiBL	FiBL Austria	https://www.fibl.org/en/themes/projectdatabase/projectitem/project/1737.html	48.2081869	16.3559272	Austria	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Eucarpia symposium	Bayerische Landesanstalt für Landwirtschaft - LfL	http://www.lfl.bayern.de/	48.3768388	11.7814181	Germany	CE	NOT	NOT	BfO	NOT	NOT	arable	NOT	NOT	NOT	NOT
+LIVESEED	Ubios	http://unionbiosemences.fr/	48.3986073	2.3965759	France	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Eucarpia symposium	Saatzucht Schweiger GbR	http://saatzucht-schweiger.de/sorten/	48.4800905	11.9058243	Germany	CE	NOT	NOT	BfO	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Veronique Chable	Michael Seed	http://michelseed.com/index.html	48.5592871	3.2945316	France	CE	OPB	NOT	NOT	NOT	NOT	NOT	forage	NOT	NOT	NOT
+NA	Saatzucht Edelhof	https://www.saatzucht.edelhof.at/	48.6062721	15.2209169	Austria	CE	NOT	NOT	BfO	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Demeter 	Rein Saat	https://www.reinsaat.at/	48.6072147	15.5364996	Austria	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	other
+LIVESEED	INRA	http://institut.inra.fr/en	48.7833882	1.9565006	France	CE	OPB	DOPB	NOT	NOT	NOT	arable	NOT	vegetable	NOT	other
+Demeter	Institut Technique de l’Agriculture Biologique- ITAB	http://itab.asso.fr , http://bit.ly/2pxmIEn	48.84097	2.3734546	France	CE	NOT	DOPB	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Demeter	Dottenfelderhof	http://www.dottenfelderhof.de/forschung-zuechtung/aktuelles.html	50.1941711	8.7504930	Germany	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Demeter	Kultursaat e.V.	https://www.kultursaat.org/en/breeding/locations/	50.3744004	8.8936242	Germany	CE	OPB	DOPB	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	other
+Survey	Verein zur Erhaltung der Nutzpflanzenvielfalt 	https://www.nutzpflanzenvielfalt.de/	50.5393019	9.6481819	Germany	CE	NOT	DOPB	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	other
+NA	Novafruits	http://www.cra.wallonie.be/fr/novafruits-en-pommes-et-poires-des-varietes-creees-en-bio-et-bas-intrants	50.553531	4.5760574	Belgium	CE	NOT	DOPB	NOT	NOT	NOT	NOT	NOT	NOT	fruit_grape	NOT
+Eucarpia symposium	Netwerk Zelf Zaden telen	http://www.zelfzadentelen.be/	51.1473733	4.3947737	Belgium	CE	NOT	DOPB	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+Walter de Milliano	Walter de Milliano	Not available	51.3105736	3.4892906	Netherlands	CE	NOT	NOT	BfO	CB_OS	NOT	arable	NOT	NOT	NOT	NOT
+Symposium	University of Kassel	https://www.uni-kassel.de/fb11agrar/fachgebiete-einrichtungen/oekologischer-pflanzenschutz/startseite.html	51.3228223	9.5051644	Germany	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Demeter	Dreschflegel Saatgut	http://www.dreschflegel-saatgut.de/	51.3383147	9.8635970	Germany	CE	NOT	DOPB	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	other
+Demeter Organic plant breeding 	De Beersche Hoeve	https://www.debeerschehoeve.nl/	51.4790015	5.2561052	Netherlands	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Demeter Organic plant breeding 	Culinaris - Saatgut für Lebensmittel 	https://culinaris-saatgut.de/en/	51.5246033	9.9255213	Germany	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+Demeter	"Georg-August-Universität  Göttingen  (Department  of  Plant  Breeding/
+Research Unit “Genetic Resources and Ecological Plant Breeding”)"	http://www.uni-goettingen.de/de/die+fakult%C3%A4t/16366.html	51.5408149	9.9352118	Germany	CE	OPB	DOPB	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Survey	The Uk and Ireland Seed Sovereignty Programme in Scotland  (The Gaia Foundation)	https://www.seedsovereignty.info/	51.5537415	-0.1607120	Scotland	NE	NOT	NOT	NOT	NOT	other	NOT	NOT	NOT	NOT	other
+Demeter	Organic Research Centre (ORC)	http://organicresearchcentre.com/	51.7108094	-1.9865577	United Kingdom	NE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+ECO-PB	Bioimpuls,  Louis Bolk Instituut & Wageningen University & Research	https://www.wur.nl/en/Research-Results/kennisonline/Bioimpuls-2.htm	52.061812	5.1539335	Netherlands	CE	NOT	DOPB	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Demeter	Louis Bolk Instituut	http://www.louisbolk.org/	52.0619874	5.2066735	Netherlands	CE	OPB	DOPB	NOT	NOT	NOT	arable	NOT	vegetable	NOT	NOT
+Demeter	Vitalis Organic Seeds	https://eu.biovitalis.eu/	52.161505	6.1170130	Netherlands	CE	OPB	NOT	BfO	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+ECO-PB	De Bolster	https://www.bolster.eu/en/	52.345579	6.0057832	Netherlands	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+ECO-PB	Bejo Seeds	https://www.bejo.com/organic-right-start	52.726604	4.7338190	Netherlands	CE	NOT	NOT	BfO	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+Eucarpia symposium	De Zaderij	http://www.zaderij.nl/	52.7679021	5.7338947	Netherlands	CE	NOT	DOPB	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+Demeter Organic plant breeding 	The Seed Cooperative	https://www.seedcooperative.org.uk/	52.8693288	-0.1411412	United Kingdom	NE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	other
+Survey	Leen organics 	http://www.leenorganics.com/organic-consultancy/	52.8987582	-8.8638637	Ireland	NE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	vegetable	NOT	NOT
+Bioverita	Kartoffel Vielfalt	https://www.kartoffelvielfalt.de/	52.9632675	10.1780062	Germany	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Demeter	Getreidezüchtung Darzau	https://www.cultivari.de/	53.199211	10.8685092	Germany	CE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Demeter	EuroPlant	http://www.europlant.biz/en/home/	53.2604558	10.4365726	Germany	CE	OPB	NOT	NOT	NOT	NOT	NOT	forage	NOT	NOT	NOT
+Demeter	"Saat:gut e.V.
+incl. Apfel:gut"	https://www.saat-gut.org/	54.5577553	9.3738940	Germany	CE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	NOT	fruit_grape	NOT
+Survey	SRUC - Scotland’s Rural College	https://www.sruc.ac.uk/	55.9217376	-3.1793961	Scotland	NE	NOT	DOPB	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Survey	Doughies	https://doughies.blog/	55.9412846	-3.2753780	Scotland	NE	OPB	NOT	NOT	NOT	NOT	NOT	NOT	NOT	NOT	other
+ECO-PB, LIVESEED	Agrologica	http://www.agrologica.dk/	56.6603265	10.0151707	Denmark	NE	OPB	NOT	NOT	NOT	NOT	arable	NOT	NOT	NOT	NOT
+LIVESEED	Institute of Agricultural Resources and Economics - AREI	https://www.arei.lv/lv	56.9716017	24.1723183	Latvia	NE	OPB	NOT	BfO	NOT	NOT	arable	NOT	NOT	NOT	NOT
+Survey	NGO Maadjas	http://www.maadjas.ee/	59.4717925	24.5981607	Estonia	NE	NOT	NOT	NOT	NOT	other	NOT	NOT	NOT	NOT	other
+Survey	Luomuliitto ry  - Finnish Organic Farmers Association	http://www.luomuliitto.fi/	60.7368296	24.7683232	Finland	NE	OPB	NOT	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
+Survey	HAMK University of Applied Sciences	https://www.hamk.fi/	60.9758213	24.4781475	Finland	NE	OPB	DOPB	BfO	NOT	NOT	NOT	NOT	NOT	NOT	other
