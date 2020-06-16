@@ -47,44 +47,56 @@ dataother<-data[which(data$type_other=="other"),]
 
 ## Create a html popup all
 content <- paste(sep = "<br/>",
-                        paste0("<div class='leaflet-popup-scrolled' style='max-width:200px;max-height:200px'>"),
+                        paste0("<div class='leaflet-popup-scrolled' style='max-width:300px;max-height:400px'>"),
                         paste0("<b>", data$name),
                         paste0(data$tag),
+                        paste0("Description:"),
+                        paste0(data$info),
                         paste0("</div>"))
 
 ## Create a html popup OPB
 contentOPB <- paste(sep = "<br/>",
-                 paste0("<div class='leaflet-popup-scrolled' style='max-width:200px;max-height:200px'>"),
+                 paste0("<div class='leaflet-popup-scrolled' style='max-width:300px;max-height:400px'>"),
                  paste0("<b>", dataOPB$name),
                  paste0(dataOPB$tag),
+                 paste0("Description:"),
+                 paste0(dataOPB$info),
                  paste0("</div>"))
 
 ## Create a html popup DOPB
 contentDOPB <- paste(sep = "<br/>",
-                 paste0("<div class='leaflet-popup-scrolled' style='max-width:200px;max-height:200px'>"),
+                paste0("<div class='leaflet-popup-scrolled' style='max-width:300px;max-height:400px'>"),
                  paste0("<b>", dataDOPB$name),
                  paste0(dataDOPB$tag),
+                paste0("Description:"),
+                paste0(dataDOPB$info),
                  paste0("</div>"))
 
 ## Create a html popup BfO
 contentBfO <- paste(sep = "<br/>",
-                 paste0("<div class='leaflet-popup-scrolled' style='max-width:200px;max-height:200px'>"),
+                paste0("<div class='leaflet-popup-scrolled' style='max-width:300px;max-height:400px'>"),
                  paste0("<b>", dataBfO$name),
                  paste0(dataBfO$tag),
+                paste0("Description:"),
+                paste0(dataBfO$info),
                  paste0("</div>"))
 
 ## Create a html popup CB_OS
 contentCB_OS <- paste(sep = "<br/>",
-                 paste0("<div class='leaflet-popup-scrolled' style='max-width:200px;max-height:200px'>"),
+                paste0("<div class='leaflet-popup-scrolled' style='max-width:300px;max-height:400px'>"),
                  paste0("<b>", dataCB_OS$name),
                  paste0(dataCB_OS$tag),
+                paste0("Description:"),
+                paste0(dataCB_OS$info),
                  paste0("</div>"))
 
 ## Createother a html popup other
 contentother <- paste(sep = "<br/>",
-                 paste0("<div class='leaflet-popup-scrolled' style='max-width:200px;max-height:200px'>"),
+                paste0("<div class='leaflet-popup-scrolled' style='max-width:300px;max-height:400px'>"),
                  paste0("<b>", dataother$name),
                  paste0(dataother$tag),
+                paste0("Description:"),
+                paste0(dataother$info),
                  paste0("</div>"))
 
 ## PART 2 - IN THIS PART THE CODE ADDS ELEMENT ON THE MAP LIKE POLYGONS, POINTS AND IMAGES.
