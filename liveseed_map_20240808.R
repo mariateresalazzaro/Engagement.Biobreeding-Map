@@ -1,14 +1,10 @@
 
-setwd("C:/Users/david.stetter/Desktop/BIOBREEDING/BioBreedingMapR")
 
-#Installation of required packages
-install.packages('rgdal')
 
 
 #Call the libraries
 library(leaflet)
 library(sp)
-#library(rgdal)
 library(RColorBrewer)
 library(leaflet.extras)
 library(leaflet.minicharts)
@@ -21,7 +17,8 @@ library(sf)
 library(htmltools)
 library(dplyr)
 library(readxl)
-
+##for html export
+#library(htmlwidgets)
 
 ## PART 1 - IN THIS PART THE CODE READS THE FILES AND ATTRIBUTES COLORS AND ICONS TO ELEMENTS
 
@@ -31,16 +28,14 @@ library(readxl)
 ## Create the palette of colors for the shapefiles
 #palette_countries <- colorNumeric(palette = "YlOrRd", domain = countries$CNTR_BN_ID)
 
-## Read the csv
+## Read the list
 ####HERE WE're debugging, seems to be a problem with some special caracters in the table
-
 #data<-read.delim("liveseed_data_Final.txt", header = TRUE, sep = "\t", fileEncoding = "UTF-8")
-
 #data<-read.table("liveseed_data_Final.txt", header = TRUE, sep = "\t", fileEncoding = "UTF-8", quote = "\"", dec = ".", fill = TRUE)
-
+#reading the excel instead of csvot txt works, why i don't know
 data<-read_xlsx(path="liveseedData_update07.24.xlsx")
 
-#make sure all lat,long values are numeric
+#convert all lat,long values to numeric
 data$long<-as.numeric(data$long)
 data$lat<-as.numeric(data$lat)
 
@@ -236,4 +231,7 @@ m <- leaflet() %>%
 
 ## Show the map  
 m
+
+## Save the Map
+#saveWidget(m, file="m.html")
 
