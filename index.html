@@ -22,6 +22,8 @@ min-width: 0;
 flex: 0 0 auto;
 }
 }
+
+
 </style>
 <script>(function() {
   // If window.HTMLWidgets is already defined, then use it; otherwise create a
@@ -949,9 +951,14 @@ background: rgba(255,255,255,0.8);
 box-shadow: 0 0 15px rgba(0,0,0,0.2);
 border-radius: 5px;
 }
+.leaflet-control-layers {
+    opacity: 75%;
+}
 .leaflet .legend {
-line-height: 18px;
+line-height: 42px;
 color: #555;
+font-size: 32px;
+font-weight: bolder;
 }
 .leaflet .legend svg text {
 fill: #555;
