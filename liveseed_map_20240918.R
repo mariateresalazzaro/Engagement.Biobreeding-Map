@@ -1,6 +1,7 @@
 
 
 #Call the libraries
+library(openxlsx)
 library(leaflet)
 library(sp)
 library(htmlwidgets)
@@ -36,8 +37,7 @@ setwd("C:/Users/david.stetter/Desktop/BIOBREEDING/BioBreedingMapR")
 
 #data<-read.table("liveseed_data_Final.txt", header = TRUE, sep = "\t", fileEncoding = "UTF-8", quote = "\"", dec = ".", fill = TRUE)
 
-data<-read_xlsx(path="liveseedData_update08.24.xlsx")
-
+data<-read_xlsx(path="biobreeding092024.xlsx")
 #make sure all lat,long values are numeric
 data$long<-as.numeric(data$long)
 data$lat<-as.numeric(data$lat)
@@ -133,6 +133,12 @@ iconsDarkGreen <- awesomeIcons(
   library = 'ion',
   markerColor="darkgreen" ) 
 
+iconsDarkBlue <- awesomeIcons(
+  icon = 'ios-close',
+  iconColor = 'white',
+  library = 'ion',
+  markerColor="darkblue" ) 
+
 iconsGreen <- awesomeIcons(
   icon = 'ios-close',
   iconColor = 'white',
@@ -180,7 +186,7 @@ m <- leaflet() %>%
   addAwesomeMarkers(data = data, 
                     lng = ~long,
                     lat = ~lat, 
-                    icon = iconsRed,
+                    icon = iconsDarkBlue,
                     popup = c(content), 
                     group = "All Organisations mapped",
                     options = popupOptions(maxWidth = 100, maxHeight = 150), 
@@ -264,7 +270,11 @@ m <- leaflet() %>%
   ## Hide the layers that the users can choose as they like
   hideGroup(c("Empty"))
 
+## Save data frame to excel
+#write.xlsx(data, 'biobreeding092024.xlsx')
+
 ## Show the map  
 m
+
 ## Save the map
 #saveWidget(m, file="liveseed.html", libdir = NULL)
